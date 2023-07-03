@@ -1,0 +1,23 @@
+.foreacastsection{
+    width: 45vw;
+    font-size: large;
+  top: 20px;
+
+
+}
+.hourtrack{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+ 
+}
+.progressbar{
+width: 70%;
+
+
+}
+.acc{
+
+background-color: blanchedalmond;
+
+}

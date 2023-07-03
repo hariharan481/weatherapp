@@ -1,0 +1,13 @@
+.current{
+color: white;
+ width: 35vw;
+ margin-top: 5vh;
+ font-weight: 800;
+ font-size: large;
+}
+.currentbody{
+    display: flex;
+    gap: 30px;
+    align-items: center;
+ 
+}
